@@ -1,5 +1,0 @@
-langchain
-langchain_openai
-pythondot-env
-streamlit
-PyPDF2
